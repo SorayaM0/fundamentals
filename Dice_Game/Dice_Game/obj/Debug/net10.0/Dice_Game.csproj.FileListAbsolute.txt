@@ -1,0 +1,14 @@
+/Users/sorim/Downloads/Dice_Game/Dice_Game/bin/Debug/net10.0/Dice_Game
+/Users/sorim/Downloads/Dice_Game/Dice_Game/bin/Debug/net10.0/Dice_Game.deps.json
+/Users/sorim/Downloads/Dice_Game/Dice_Game/bin/Debug/net10.0/Dice_Game.runtimeconfig.json
+/Users/sorim/Downloads/Dice_Game/Dice_Game/bin/Debug/net10.0/Dice_Game.dll
+/Users/sorim/Downloads/Dice_Game/Dice_Game/bin/Debug/net10.0/Dice_Game.pdb
+/Users/sorim/Downloads/Dice_Game/Dice_Game/obj/Debug/net10.0/Dice_Game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sorim/Downloads/Dice_Game/Dice_Game/obj/Debug/net10.0/Dice_Game.AssemblyInfoInputs.cache
+/Users/sorim/Downloads/Dice_Game/Dice_Game/obj/Debug/net10.0/Dice_Game.AssemblyInfo.cs
+/Users/sorim/Downloads/Dice_Game/Dice_Game/obj/Debug/net10.0/Dice_Game.csproj.CoreCompileInputs.cache
+/Users/sorim/Downloads/Dice_Game/Dice_Game/obj/Debug/net10.0/Dice_Game.dll
+/Users/sorim/Downloads/Dice_Game/Dice_Game/obj/Debug/net10.0/refint/Dice_Game.dll
+/Users/sorim/Downloads/Dice_Game/Dice_Game/obj/Debug/net10.0/Dice_Game.pdb
+/Users/sorim/Downloads/Dice_Game/Dice_Game/obj/Debug/net10.0/Dice_Game.genruntimeconfig.cache
+/Users/sorim/Downloads/Dice_Game/Dice_Game/obj/Debug/net10.0/ref/Dice_Game.dll
