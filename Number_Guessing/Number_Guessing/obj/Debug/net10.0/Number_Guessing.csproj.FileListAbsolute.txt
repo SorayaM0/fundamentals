@@ -1,0 +1,5 @@
+/Users/sorim/Downloads/fundamentals/Number_Guessing/Number_Guessing/obj/Debug/net10.0/Number_Guessing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sorim/Downloads/fundamentals/Number_Guessing/Number_Guessing/obj/Debug/net10.0/Number_Guessing.AssemblyInfoInputs.cache
+/Users/sorim/Downloads/fundamentals/Number_Guessing/Number_Guessing/obj/Debug/net10.0/Number_Guessing.AssemblyInfo.cs
+/Users/sorim/Downloads/fundamentals/Number_Guessing/Number_Guessing/obj/Debug/net10.0/Number_Guessing.csproj.CoreCompileInputs.cache
+/Users/sorim/Downloads/fundamentals/Number_Guessing/Number_Guessing/obj/Debug/net10.0/Number_Guessing.sourcelink.json

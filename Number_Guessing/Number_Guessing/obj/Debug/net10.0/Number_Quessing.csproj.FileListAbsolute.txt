@@ -1,0 +1,5 @@
+/Users/sorim/Downloads/fundamentals/Number_Quessing/Number_Quessing/obj/Debug/net10.0/Number_Quessing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sorim/Downloads/fundamentals/Number_Quessing/Number_Quessing/obj/Debug/net10.0/Number_Quessing.AssemblyInfoInputs.cache
+/Users/sorim/Downloads/fundamentals/Number_Quessing/Number_Quessing/obj/Debug/net10.0/Number_Quessing.AssemblyInfo.cs
+/Users/sorim/Downloads/fundamentals/Number_Quessing/Number_Quessing/obj/Debug/net10.0/Number_Quessing.csproj.CoreCompileInputs.cache
+/Users/sorim/Downloads/fundamentals/Number_Quessing/Number_Quessing/obj/Debug/net10.0/Number_Quessing.sourcelink.json
