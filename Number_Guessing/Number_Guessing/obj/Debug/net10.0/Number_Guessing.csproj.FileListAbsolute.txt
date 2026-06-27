@@ -3,3 +3,13 @@
 /Users/sorim/Downloads/fundamentals/Number_Guessing/Number_Guessing/obj/Debug/net10.0/Number_Guessing.AssemblyInfo.cs
 /Users/sorim/Downloads/fundamentals/Number_Guessing/Number_Guessing/obj/Debug/net10.0/Number_Guessing.csproj.CoreCompileInputs.cache
 /Users/sorim/Downloads/fundamentals/Number_Guessing/Number_Guessing/obj/Debug/net10.0/Number_Guessing.sourcelink.json
+/Users/sorim/Downloads/fundamentals/Number_Guessing/Number_Guessing/bin/Debug/net10.0/Number_Guessing
+/Users/sorim/Downloads/fundamentals/Number_Guessing/Number_Guessing/bin/Debug/net10.0/Number_Guessing.deps.json
+/Users/sorim/Downloads/fundamentals/Number_Guessing/Number_Guessing/bin/Debug/net10.0/Number_Guessing.runtimeconfig.json
+/Users/sorim/Downloads/fundamentals/Number_Guessing/Number_Guessing/bin/Debug/net10.0/Number_Guessing.dll
+/Users/sorim/Downloads/fundamentals/Number_Guessing/Number_Guessing/bin/Debug/net10.0/Number_Guessing.pdb
+/Users/sorim/Downloads/fundamentals/Number_Guessing/Number_Guessing/obj/Debug/net10.0/Number_Guessing.dll
+/Users/sorim/Downloads/fundamentals/Number_Guessing/Number_Guessing/obj/Debug/net10.0/refint/Number_Guessing.dll
+/Users/sorim/Downloads/fundamentals/Number_Guessing/Number_Guessing/obj/Debug/net10.0/Number_Guessing.pdb
+/Users/sorim/Downloads/fundamentals/Number_Guessing/Number_Guessing/obj/Debug/net10.0/Number_Guessing.genruntimeconfig.cache
+/Users/sorim/Downloads/fundamentals/Number_Guessing/Number_Guessing/obj/Debug/net10.0/ref/Number_Guessing.dll
