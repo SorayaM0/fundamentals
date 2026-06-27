@@ -15,18 +15,18 @@ string response;
 
     while (guess != number)
     {
-        System.Console.WriteLine("guess a number between"+ min + "-" + max);
+        System.Console.WriteLine("guess a number between: " + min +  "-"  +  max);
         guess =Convert.ToInt32(Console.ReadLine());
         System.Console.WriteLine("Guess:" + guess );
         if (guess > number)
         {
-            System.Console.WriteLine(guess + " Is too high!");
+            System.Console.WriteLine(guess + " is too high!");
         }
         else if (guess<number)
         {
-            System.Console.WriteLine( guess+ "Is too low!");
+            System.Console.WriteLine(guess + " is too low!");
         }  
-        guess++;  
+        guesses++;  
          }
          System.Console.WriteLine("Number:" + number);
          System.Console.WriteLine("You win!");
@@ -42,5 +42,6 @@ string response;
     {
     playAgain= false; 
     }
+    
     System.Console.WriteLine("Thanks for Playing!");
 }
