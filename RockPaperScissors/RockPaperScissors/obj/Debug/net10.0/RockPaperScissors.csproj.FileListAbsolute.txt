@@ -1,0 +1,15 @@
+/Users/sorim/Downloads/fundamentals/RockPaperScissors/RockPaperScissors/bin/Debug/net10.0/RockPaperScissors
+/Users/sorim/Downloads/fundamentals/RockPaperScissors/RockPaperScissors/bin/Debug/net10.0/RockPaperScissors.deps.json
+/Users/sorim/Downloads/fundamentals/RockPaperScissors/RockPaperScissors/bin/Debug/net10.0/RockPaperScissors.runtimeconfig.json
+/Users/sorim/Downloads/fundamentals/RockPaperScissors/RockPaperScissors/bin/Debug/net10.0/RockPaperScissors.dll
+/Users/sorim/Downloads/fundamentals/RockPaperScissors/RockPaperScissors/bin/Debug/net10.0/RockPaperScissors.pdb
+/Users/sorim/Downloads/fundamentals/RockPaperScissors/RockPaperScissors/obj/Debug/net10.0/RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sorim/Downloads/fundamentals/RockPaperScissors/RockPaperScissors/obj/Debug/net10.0/RockPaperScissors.AssemblyInfoInputs.cache
+/Users/sorim/Downloads/fundamentals/RockPaperScissors/RockPaperScissors/obj/Debug/net10.0/RockPaperScissors.AssemblyInfo.cs
+/Users/sorim/Downloads/fundamentals/RockPaperScissors/RockPaperScissors/obj/Debug/net10.0/RockPaperScissors.csproj.CoreCompileInputs.cache
+/Users/sorim/Downloads/fundamentals/RockPaperScissors/RockPaperScissors/obj/Debug/net10.0/RockPaperScissors.sourcelink.json
+/Users/sorim/Downloads/fundamentals/RockPaperScissors/RockPaperScissors/obj/Debug/net10.0/RockPaperScissors.dll
+/Users/sorim/Downloads/fundamentals/RockPaperScissors/RockPaperScissors/obj/Debug/net10.0/refint/RockPaperScissors.dll
+/Users/sorim/Downloads/fundamentals/RockPaperScissors/RockPaperScissors/obj/Debug/net10.0/RockPaperScissors.pdb
+/Users/sorim/Downloads/fundamentals/RockPaperScissors/RockPaperScissors/obj/Debug/net10.0/RockPaperScissors.genruntimeconfig.cache
+/Users/sorim/Downloads/fundamentals/RockPaperScissors/RockPaperScissors/obj/Debug/net10.0/ref/RockPaperScissors.dll

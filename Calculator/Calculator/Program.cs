@@ -22,5 +22,5 @@ else if (answer == "m" )
 }
 else if (answer == "d" )
 {
-    System.Console.WriteLine("resunt:" + (num1/ num2));
-}
+    System.Console.WriteLine("resunt:" + (num1/ num2)); 
+} 
