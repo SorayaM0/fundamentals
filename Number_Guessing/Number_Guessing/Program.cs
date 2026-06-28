@@ -1,4 +1,4 @@
-﻿Random random= new Random();
+﻿/*Random random= new Random();
 bool playAgain= true;
 int min=1 ; 
 int max= 1000; 
@@ -41,7 +41,54 @@ string response;
             else
     {
     playAgain= false; 
-    }
-    
     System.Console.WriteLine("Thanks for Playing!");
+    }
+
+} */
+Random random= new Random(); 
+bool playAgain= true; 
+int min= 1; 
+int max= 1000; 
+int guess; 
+int number; 
+int guesses; 
+string response; 
+
+while (playAgain)
+{
+     guess= 0; 
+     guesses=0 ; 
+    response= "";
+     number= random.Next(min , max+1); 
+  while ( guess != number)
+{
+    System.Console.WriteLine("Please guess a number between:" + min + "-" + max);
+    guess= Convert.ToInt32(Console.ReadLine());
+    System.Console.WriteLine("Guess:" + guess);
+    if (number > guess)
+    {
+        System.Console.WriteLine(guess +  " is too low");
+    }
+    else if ( number < guess)
+    {
+        System.Console.WriteLine( guess + " is too high");
+    }
+    guesses++; 
+}
+  System.Console.WriteLine( "Number:" + number);
+  System.Console.WriteLine("You win!");
+  System.Console.WriteLine("Do you want to play again: (N/Y )");
+  response= Console.ReadLine();
+  response= response.ToUpper();
+  if ( response== "Y")
+    {
+        playAgain= true;
+    }
+    else 
+    {
+        playAgain= false; 
+        System.Console.WriteLine("Thanks for playing! Have a wonderful day");
+    }
+
+
 }
